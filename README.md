@@ -2,6 +2,12 @@
 
 API REST para cadastro de produtos e verificação de disponibilidade por cidade. O projeto consulta a ViaCEP, descobre a cidade do CEP informado e compara com o centro de distribuição do produto.
 
+## Identificação
+
+- Aluna: Alyne Rodrigues de Campos
+- RGM: 11231100534
+- Turma: 8ºB S.I.
+
 ## Tecnologias
 
 - Java 17
