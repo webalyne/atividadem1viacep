@@ -4,7 +4,7 @@ API REST para cadastro de produtos e verificação de disponibilidade por cidade
 
 ## Identificação
 
-- Aluna: Alyne Rodrigues de Campos
+- Nome: Alyne Rodrigues de Campos
 - RGM: 11231100534
 - Turma: 8ºB S.I.
 
